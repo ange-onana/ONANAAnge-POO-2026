@@ -144,11 +144,8 @@ Boucle for-each : Elle sert à parcourir chaque élément d'une liste du premier
 
 InfrastructureReseau :Cette classe est cruciale car elle centralise tous les composants du réseau, permettant de manipuler l'ensemble du système via un seul objet "cœur".
 
-
-
-
-
 8\. 
 
 Collections professionnelles : Elles sont indispensables car une entreprise gère des volumes de données massifs (milliers d'équipements) qui seraient impossibles à coder avec des variables individuelles.
 
+lien du depot: https://github.com/ange-onana/ONANAAnge-POO-2026.git
